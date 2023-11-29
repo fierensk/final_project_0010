@@ -2,9 +2,9 @@
 # General Info
 Group 21
 Members: 
-Feyza Altunal (fea36@pitt.edu)
+(fea36@pitt.edu)
 (notebook: land_toxicity)
-Kate Fierens (kgf6@pitt.edu)
+(kgf6@pitt.edu)
 (notebooks: air_quality.ipynb and asbestos.ipynb)
 
 # Datasets
