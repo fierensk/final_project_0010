@@ -10,11 +10,13 @@ Members:
 # Datasets
 Toxic Release Inventory (TRI Land):
 https://data.wprdc.org/dataset/toxic-release-inventory
+https://data.wprdc.org/dataset/toxic-release-inventory/resource/1809697b-86ed-4ce2-b813-179b95d6c833
 The Toxics Release Inventory (TRI) data provides information about toxic substances released into the environment. 
 
-Allegheny County Air Quality:
-https://data.wprdc.org/dataset/allegheny-county-air-quality
-This dataset provides numeric ratings for the air quality.
+Toxic Release Inventory (TRI Air):
+https://data.wprdc.org/dataset/toxic-release-inventory
+https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013
+The Toxics Release Inventory (TRI) data provides information about toxic substances released into the air. 
 
 Allegheny County Asbestos Permits:
 https://data.wprdc.org/dataset/allegheny-county-asbestos-permit
