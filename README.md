@@ -1,7 +1,8 @@
 ## final_project_0010
 # General Info
-**Group 21
-Members:** 
+**Team:** Legal Drinking Age (Group 21 on Canvas)
+
+**Members:** 
 <br> Feyza Altunal (fea36@pitt.edu)
 (notebook: land_toxicity)</br>
 <br> Katelin Fierens (kgf6@pitt.edu)
