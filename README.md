@@ -2,10 +2,10 @@
 # General Info
 Group 21
 Members: 
-(fea36@pitt.edu)
-(notebook: land_toxicity)
-(kgf6@pitt.edu)
-(notebooks: air_quality.ipynb and asbestos.ipynb)
+<br> Feyza Altunal (fea36@pitt.edu)
+(notebook: land_toxicity)</br>
+<br> Katelin Fierens (kgf6@pitt.edu)
+(notebooks: air_quality.ipynb and asbestos.ipynb)</br>
 
 # Datasets
 Toxic Release Inventory (TRI Land):
